@@ -1,2 +1,2 @@
 # consul_io
-Improved Consul dynamic inventory script for Ansible
+Improved consul dynamic inventory script for Ansible. Backward compatible, drop in replacement.
